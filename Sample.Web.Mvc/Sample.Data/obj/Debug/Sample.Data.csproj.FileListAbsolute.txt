@@ -1,0 +1,10 @@
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\Sample.Data.dll.config
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\Sample.Data.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\Sample.Data.pdb
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\EntityFramework.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\EntityFramework.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\obj\Debug\Sample.Data.csprojResolveAssemblyReference.cache
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\obj\Debug\Sample.Data.dll
+C:\Users\Vishal\Documents\Visual Studio 2015\Projects\Sample.Web.Mvc\Sample.Data\obj\Debug\Sample.Data.pdb
